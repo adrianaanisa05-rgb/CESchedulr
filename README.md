@@ -1,1 +1,1 @@
-# CESchedulr
+# CESchedulr - Club Event Management System
